@@ -1,0 +1,8 @@
+D:\new pc\SerialPortListener\SerialPortListener\bin\x64\Release\SerialPortListener.exe.config
+D:\new pc\SerialPortListener\SerialPortListener\bin\x64\Release\SerialPortListener.exe
+D:\new pc\SerialPortListener\SerialPortListener\bin\x64\Release\SerialPortListener.pdb
+D:\new pc\SerialPortListener\SerialPortListener\obj\x64\Release\SerialPortListener.MainForm.resources
+D:\new pc\SerialPortListener\SerialPortListener\obj\x64\Release\SerialPortListener.Properties.Resources.resources
+D:\new pc\SerialPortListener\SerialPortListener\obj\x64\Release\SerialPortListener.csproj.GenerateResource.cache
+D:\new pc\SerialPortListener\SerialPortListener\obj\x64\Release\SerialPortListener.exe
+D:\new pc\SerialPortListener\SerialPortListener\obj\x64\Release\SerialPortListener.pdb
